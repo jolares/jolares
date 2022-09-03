@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jolares
 - 👀 I’m interested in machine learning and web development.
-- 🌱 I’m currently learning about end-to-end machine learning.
-- 💞️ I’m looking to collaborate on open source projects related to machine learning and web development.
+- 🌱 I’m currently learning about end-to-end machine learning
+- 💞️ I’m looking to collaborate on open source projects and technical documentation related to machine learning and web development.
 - 📫 How to reach me: jlares@gatech.edu
 
 <!---
