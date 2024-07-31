@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jolares
-- 👀 I’m interested in end-to-end machine learning and web development.
-- 💞️ I’m looking to collaborate on open source projects and technical documentation related to end-to-end machine learning and web development.
-- 💞️ I love to solve hard problems in innovative ways.
-- 📫 How to reach me: Create a new issue in this repository [here](https://github.com/jolares/jolares/issues)
+- 👋 Hello I’m @jolares!
+- 👀 What are my passions and interests: 
+  - 💞️ I love solving hard problems in innovative ways. This drives my interests in End-to-end Machine Learning, Artificial Intelligence, and Software Engineering. 
+- 📫 How to reach me: Create a new issue [here](https://github.com/jolares/jolares/issues)
 
 <!---
 jolares/jolares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
