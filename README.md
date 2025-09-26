@@ -1,6 +1,7 @@
-- 👋 Hello I’m @jolares!
-- 👀 What are my passions and interests: 
-  - 💞️ I love solving hard problems in innovative ways. This drives my interests in End-to-end Machine Learning, Artificial Intelligence, and Software Engineering. 
+- 👋 Hello, I’m @jolares!
+- What are my interests:
+  - Solving hard problems in innovative ways while striving for simplicity.
+  - End-to-end Machine Learning Machine Learning, Artificial Intelligence, and Software Engineering. 
 - 📫 How to reach me: Create a new issue [here](https://github.com/jolares/jolares/issues)
 
 <!---
